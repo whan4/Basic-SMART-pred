@@ -1,9 +1,7 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT LOGO -->
-<br />
-
-<h3 align="center">Basic SMART-pred</h3>
+<h1 align="center">Basic SMART-pred</h1>
 
   <p align="center">
     SMART-pred is an interactive web application built with R Shiny that provides a comprehensive and customized machine-learning and deep-learning pipeline for classification and regression tasks. 
