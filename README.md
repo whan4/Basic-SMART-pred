@@ -126,18 +126,20 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - email@email_client.com
+Samuel Kakraba - skakraba@tulane.edu
 
 Project Link: [https://github.com/whan4/Basic-SMART-pred](https://github.com/whan4/Basic-SMART-pred)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Acknowledgments  
 
-* []()
-* []()
-* []()
+* [](link) - Funding  
+* [Prof. Sudesh Srivastav](https://sph.tulane.edu/bios/sudesh-srivastav)
+* [Prof. Jeffery G. Shaffer](https://sph.tulane.edu/bios/jeffrey-shaffer)
+* [Shiny Framework](https://shiny.posit.co/)
+* [Caret R package](https://github.com/topepo/caret)  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
