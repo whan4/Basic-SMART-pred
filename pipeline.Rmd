@@ -73,7 +73,7 @@ for (pkg in pkgs) {
 
 ```{r load_data, echo=FALSE}
 # Load data
-data <- read.csv("~/Desktop/ML_pipeline/data/DARWIN.csv", header = TRUE)
+data <- read.csv("./Data/DARWIN.csv", header = TRUE)
 
 # Preprocess data
 data$class <- as.factor(data$class)
