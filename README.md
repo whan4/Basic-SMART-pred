@@ -126,7 +126,11 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Samuel Kakraba - skakraba@tulane.edu
+Samuel Kakraba (SK), B.Ed., M.S., PhD.
+1440 Canal St, New Orleans, LA 70112, USA
+Tel: +1-504-988-2475
+Email: samuel.kakraba@tulane.edu 
+![image](https://github.com/user-attachments/assets/62bd0541-0961-4b6a-a6c8-9259c9e1ea35)
 
 Project Link: [https://github.com/whan4/Basic-SMART-pred](https://github.com/whan4/Basic-SMART-pred)
 
@@ -135,7 +139,6 @@ Project Link: [https://github.com/whan4/Basic-SMART-pred](https://github.com/wha
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments  
 
-* [](link) - Funding  
 * [Prof. Sudesh Srivastav](https://sph.tulane.edu/bios/sudesh-srivastav)
 * [Prof. Jeffery G. Shaffer](https://sph.tulane.edu/bios/jeffrey-shaffer)
 * [Shiny Framework](https://shiny.posit.co/)
