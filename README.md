@@ -126,7 +126,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[Samuel Kakraba (SK)](https://sph.tulane.edu/bios/samuel-kakraba), B.Ed., M.S., PhD.
+[Samuel Kakraba](https://sph.tulane.edu/bios/samuel-kakraba), B.Ed., M.S., PhD.
 
 1440 Canal St, New Orleans, LA 70112, USA
 
