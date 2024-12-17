@@ -126,21 +126,21 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[Samuel Kakraba](https://sph.tulane.edu/bios/samuel-kakraba), B.Ed., M.S., PhD.
+### [Samuel Kakraba](https://sph.tulane.edu/bios/samuel-kakraba), B.Ed., M.S., PhD.
 
-1440 Canal St, New Orleans, LA 70112, USA
+- 1440 Canal St, New Orleans, LA 70112, USA
 
-Tel: +1-504-988-2475
+- Tel: +1-504-988-2475
 
-Email: [samuel.kakraba@tulane.edu](samuel.kakraba@tulane.edu) 
+- Email: [samuel.kakraba@tulane.edu](samuel.kakraba@tulane.edu) 
 
-[Prof. Sudesh Srivastav](https://sph.tulane.edu/bios/sudesh-srivastav), B.S., M.S. PhD.
+### [Sudesh Srivastav](https://sph.tulane.edu/bios/sudesh-srivastav), B.S., M.S. PhD.
 
-1440 Canal St, New Orleans, LA 70112, USA
+- 1440 Canal St, New Orleans, LA 70112, USA
 
-Tel: +1-504-988-2472
+- Tel: +1-504-988-2472
 
-Email: [ssrivas@tulane.edu](ssrivas@tulane.edu) 
+- Email: [ssrivas@tulane.edu](ssrivas@tulane.edu) 
 
 Project Link: [https://github.com/whan4/Basic-SMART-pred](https://github.com/whan4/Basic-SMART-pred)
 
