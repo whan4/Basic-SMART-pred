@@ -136,12 +136,13 @@ Email: samuel.kakraba@tulane.edu
 
 Project Link: [https://github.com/whan4/Basic-SMART-pred](https://github.com/whan4/Basic-SMART-pred)
 
+[Prof. Sudesh Srivastav](https://sph.tulane.edu/bios/sudesh-srivastav)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments  
 
-* [Prof. Sudesh Srivastav](https://sph.tulane.edu/bios/sudesh-srivastav)
 * [Prof. Jeffery G. Shaffer](https://sph.tulane.edu/bios/jeffrey-shaffer)
 * [Shiny Framework](https://shiny.posit.co/)
 * [Caret R package](https://github.com/topepo/caret)  
