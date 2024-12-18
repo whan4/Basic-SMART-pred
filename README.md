@@ -91,7 +91,7 @@ runApp('./app')
 ```
 ### R markdown pipeline
 
-If you want to reproduce the result in our paper, please load _**air_paper_results.rds**_, _**varimp_results.rds**_ and run specific code block of _**pipeline.Rmd**_ to get the specific result.
+If you want to reproduce the result in our paper, please load _**partial_air_paper_pca_results**_, _**full_varimp_results.rds**_, _**full_pca_results.rds**_ and run specific code block of _**pipeline.Rmd**_ to get the specific result.
 
 1. Open R and set working directory
 2. Run the whole pipeline or specific code block
