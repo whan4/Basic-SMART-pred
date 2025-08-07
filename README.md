@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e2dcdd63-aad8-42f0-a4c9-f5a9a20864d3)<a id="readme-top"></a>
+
 
 <!-- PROJECT LOGO -->
 <h1 align="center">Basic SMART-pred</h1>
